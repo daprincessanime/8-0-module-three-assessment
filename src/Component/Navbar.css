@@ -1,0 +1,14 @@
+.nav {
+    height: 50px;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    background-color: red;
+    width: 1200px;
+    margin: 0 auto;
+    font-family: fantasy;
+    text-align: center;
+}
+.nav img{
+    height: 50px;
+    width: 50px;
+}
